@@ -1,0 +1,6 @@
+Rasgulla,UP,Sweet,300
+Imarti ,UP,hot,790
+Chamcham,Delhi,Sweet,1300
+Jalebi,UP,Amazing,400
+JamunBlack,Panjab,Wow,500
+Balushahi,UP,super,800

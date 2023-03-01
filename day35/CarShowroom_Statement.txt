@@ -1,0 +1,6 @@
+Swift,MarutiSuzuki,2013,135000.0,Black
+Suv,Mahindra,2015,790000.0,Blue
+Hten,Ford,2016,138700.0,White
+Duster,Renault,2019,879400.0,Red
+AudyQfive,Audy,2010,798500.0,Black
+Thar,Mahindra,2020,587800.0,Green

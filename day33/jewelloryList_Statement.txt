@@ -1,0 +1,8 @@
+Your jewellory Statement:  
+ Simple   ,   Gold ,	 Neckless,25
+Simple  ,  Gold,	Earning,12
+Simple  ,  Silver,	Nosepin,18
+Simple  ,  Diomond,	HandFlower,14
+Simple  ,  Gold,	Breslate,13
+Simple  ,  Diomond,	BoysChain,8
+Simple  ,  Silver,	Pajeb,30
